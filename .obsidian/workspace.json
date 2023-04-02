@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dd4da7b557ca37b2",
+        "id": "c3c5d897b6cf4f2e",
         "type": "tabs",
         "children": [
           {
-            "id": "c5b530c40be73621",
+            "id": "768e79f419658c69",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -144,15 +144,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "code-files:Create Code File": false
     }
   },
-  "active": "c5b530c40be73621",
+  "active": "768e79f419658c69",
   "lastOpenFiles": [
+    "Welcome to Coding Help!.md",
+    "tttt.html",
     "Context",
     "README.md",
     "LICENSE",
-    "index.html",
     "codinghelp/index.html",
     "codinghelp/README.md",
     "codinghelp/LICENSE",
