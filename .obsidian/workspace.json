@@ -60,8 +60,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "867ea40da4513f67",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -140,6 +149,7 @@
   },
   "active": "c5b530c40be73621",
   "lastOpenFiles": [
+    "Context",
     "README.md",
     "LICENSE",
     "index.html",
