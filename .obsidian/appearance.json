@@ -1,3 +1,9 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "hide-attachments",
+    "custom-checkboxes",
+    "custom-callouts"
+  ]
 }
