@@ -153,11 +153,14 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "code-files:Create Code File": false
+      "code-files:Create Code File": false,
+      "obsidian-raindrop-highlights:Sync your Raindrop highlights": false
     }
   },
-  "active": "774210b434d7d393",
+  "active": "867ea40da4513f67",
   "lastOpenFiles": [
+    "Discord.js/Discord Developer Portal — Documentation — Application Commands.md",
+    "Discord.js",
     "-Archives",
     "conflict-files-obsidian-git.md",
     "Welcome to Coding Help!.md",

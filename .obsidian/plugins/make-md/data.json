@@ -31,7 +31,9 @@
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
-  "expandedFolders": {},
+  "expandedFolders": {
+    "/": []
+  },
   "expandedSpaces": [
     "/",
     null,
